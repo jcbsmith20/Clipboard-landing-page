@@ -92,7 +92,7 @@ button{
 }
 
 .about-div{
-    height: 875px;
+    height: 950px;
 
 }
 
@@ -169,7 +169,7 @@ button{
     color: var(--header-color);
     font-size: 30px;
     font-weight: 600;
-    margin-top: 5px;
+    margin-top: 50px;
     margin-bottom: 15px;
 }
 
